@@ -6,4 +6,6 @@
 .storyline-text p{
     font-size: 14px;
     align-items: flex-start;
+    text-decoration: none;
+    text-align: left;
 }
