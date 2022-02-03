@@ -1,0 +1,16 @@
+.home-page{
+    background-image: linear-gradient(#00000049, #0000006e),
+    url("../../image/meta\ house\ 2.png");
+  background-position: center center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.home-section{
+  margin-top: 300px;
+  margin:  auto;
+  height: 250px;
+  width: 500px;
+  background-image: url("../../image/Rectangle\ 1382\ \(1\).png");
+
+}

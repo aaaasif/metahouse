@@ -1,0 +1,12 @@
+.header-button{
+    margin: 10px;
+    background-color: #8C30F5;
+    padding: 10px;
+    border-radius: 10px;
+    border: 0px solid black;
+}
+.header-text{
+    margin-top: 17px;
+    font-weight: bolder;
+    color: black;
+}

@@ -1,0 +1,9 @@
+.storyline-text{
+    width: 800px;
+    margin: auto;
+    
+}
+.storyline-text p{
+    font-size: 14px;
+    align-items: flex-start;
+}
