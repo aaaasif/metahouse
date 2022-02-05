@@ -7,6 +7,7 @@ import {
 import Header from './Components/Header/Header';
 import Home from './Components/Home/Home';
 import StoryLine from './Components/StoryLine/StoryLine';
+import Whitepaper from './Components/Whitepaper/Whitepaper';
 
 function App() {
   return (
@@ -17,6 +18,8 @@ function App() {
           <Route path="/" element={<Home/>} />
           <Route path="/home" element={<Home />} />
           <Route path="/storyline" element={<StoryLine/>} />
+          <Route path="/whitepaper" element={<Whitepaper/>} />
+
 
         </Routes>
       </BrowserRouter>

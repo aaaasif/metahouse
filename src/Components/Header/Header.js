@@ -1,23 +1,25 @@
 import React from 'react';
 import {  Container, Nav, Navbar } from 'react-bootstrap';
-import { Link } from "react-router-dom";
 import './Header.css'
 
 const Header = () => {
     return (
         <Navbar bg="light" expand="lg">
             <Container>
-                <div className='d-flex justify-content-start'>
-                <Navbar.Brand href="#home">
-
-                <img
-                  src="https://i.ibb.co/jws8b4y/house-1.png"
-                  width="30"
-                  height="30"
-                  className="d-inline-block align-top"
-                  alt="Bear house"
-                />
-                <h4>BEAR GAME</h4>
+                <div className='justify-content-md-between'>
+                <Navbar.Brand href="home" className='d-flex flex-row justify-content-between'>
+                <div>
+                    <img
+                      src="https://i.ibb.co/jws8b4y/house-1.png"
+                      width="30"
+                      height="30"
+                      className="d-inline-block align-top"
+                      alt="Bear house"
+                    />
+                </div>
+                <div>
+                    <h4>BEAR GAME</h4>
+                </div>
                 </Navbar.Brand>
                 </div>
                 <div>

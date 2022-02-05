@@ -1,0 +1,18 @@
+.first-table{
+    width: 530px;
+    height: 50px;
+    margin: auto;
+    
+}
+.table-title{
+    margin-top: 100px;
+    margin-bottom: 40px;
+    color: #0A901B;
+}
+.table-head{
+    background-color: #8C30F5;
+    
+}
+.sold{
+    color: green;
+}

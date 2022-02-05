@@ -4,7 +4,10 @@ import './StoryLine.css'
 const StoryLine = () => {
     return (
         <div className='storyline-text'>
-            <h1>Story Line</h1>
+            <h1 className='storyline-header'>Story Line</h1>
+            <img className='border-img' src="https://i.ibb.co/zHyDtS3/floral-design-border-with-curls-1.png"  alt=""/>
+            <img className='border-img' src="https://i.ibb.co/zHyDtS3/floral-design-border-with-curls-1.png"  alt=""/>
+            <img className='border-img' src="https://i.ibb.co/zHyDtS3/floral-design-border-with-curls-1.png"  alt=""/>
             <p className='d-flex justify-content-start'>1.   On a prosperous grassland located in the deep meta-prairies, a tiny village of fisherman gather together around a beautiful, 
                 deep river to fish $TROUT. <br/>
                 2.  The high abundance of $TROUT in the river attracts fishermen to the village. <br/>
@@ -15,7 +18,10 @@ const StoryLine = () => {
                 7.The bears don’t hold back and there is no way to repress them! 
             </p> 
             <br/>
-            <h1>TLDR</h1>
+            <h1 className='storyline-header'>TLDR</h1>
+            <img className='border-img' src="https://i.ibb.co/zHyDtS3/floral-design-border-with-curls-1.png"  alt=""/>
+            <img className='border-img' src="https://i.ibb.co/zHyDtS3/floral-design-border-with-curls-1.png"  alt=""/>
+            <img className='border-img' src="https://i.ibb.co/zHyDtS3/floral-design-border-with-curls-1.png"  alt=""/>
             <p>
                 . There will only ever be 10,498 Gen X, minted for 0.069420 ETH each. The 39,502 Gen Y are minted by farming $TROUT. <br/>
                 .  Fishermen can be staked on the river to earn $TROUT and pay a tax anytime they claim their $TROUT. <br/>
